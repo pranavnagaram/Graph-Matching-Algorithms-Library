@@ -43,5 +43,4 @@ For e.g., to compute a stable matching with the hospitals proposing (assuming in
 	$ ./graphmatching -B -s -i ../resources/hrlq_m6.txt -o ../resources/hrlq_m6_stable.txt
 
 
-## License
-MIT
+
