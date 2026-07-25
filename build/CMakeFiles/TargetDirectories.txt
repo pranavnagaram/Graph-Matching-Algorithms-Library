@@ -1,0 +1,14 @@
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/graphmatching.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/install.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/install/local.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/graph.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/list_install_components.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/install.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/install/local.dir
+/mnt/c/Users/Admin/Documents/GraphMatching/build/lib/CMakeFiles/install/strip.dir
